@@ -1,7 +1,8 @@
 {
     "name": "intouch-games/js-test",
-	"description": "A short description of what your package does",
-	"require": {
-		"intouch-games/js-installer-plugin": "*"
-	}
+    "description": "A short description of what your package does",
+    "type": "intouch-games-js",
+    "require": {
+        "intouch-games/js-installer-plugin": "*"
+    }
 }
