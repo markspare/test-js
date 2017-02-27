@@ -3,6 +3,6 @@
     "description": "A short description of what your package does",
     "type": "intouch-games-js",
     "require": {
-        "intouch-games/js-installer-plugin": "^1"
+        "intouch-games/js-installer-plugin": "^1.0.5"
     }
 }
