@@ -1,5 +1,7 @@
 {
     "name": "intouch-games/js-test",
 	"description": "A short description of what your package does",
-	"require": {}
+	"require": {
+		"intouch-games/js-installer-plugin": "*"
+	}
 }
