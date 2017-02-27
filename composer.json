@@ -1,4 +1,5 @@
 {
     "name": "intouch/js-test",
-	"description": "A short description of what your package does"
+	"description": "A short description of what your package does",
+	"require": {}
 }
